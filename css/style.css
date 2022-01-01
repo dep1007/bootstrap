@@ -1,0 +1,27 @@
+body {
+    font: 20 px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(23, 23, 156);
+}
+
+.quem-somos {
+        background-color: rgb(153, 153, 226);
+}
+/*se eu quiser mudar a cor do texto é só colocar embaixo do background-color color: white por exemplo*/
+
+.margin{ 
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(95, 123, 175);
+}
+
+.bg-footer{
+    background-color: black;
+    color: blanchedalmond;
+}
